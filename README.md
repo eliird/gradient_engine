@@ -7,7 +7,7 @@ To visualize the backpropogation process.
 ## Installation
 
 > git clone https://github.com/eliird/gradient_engine
-> pip install -e .
+> && pip install -e .
 
 
 # Usage
